@@ -1,0 +1,19 @@
+div {
+  background-color: red;
+}
+
+div {
+  background-color: #FFFFFF;
+}
+
+div {
+  background-color: rgb(34, 193, 195);
+}
+
+div {
+  background-color: rgba(34, 193, 195, 0.2);
+}
+
+div {
+  background-color: hsl(324, 70%, 40%);
+}
